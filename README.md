@@ -18,7 +18,7 @@ This project simulates the behavior of vehicles on a ring road, focusing on the 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url](https://github.com/tianyi17/simulations_IV24)]
  car_sim_ring_IV24.ipynb
 
 ### Contributing
